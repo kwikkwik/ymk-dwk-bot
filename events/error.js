@@ -1,0 +1,1 @@
+exports.run = async (client) => { console.error }

@@ -1,0 +1,9 @@
+{
+  "fun": "`say`, `game`, `clyde`, `ship`, `changemymind`, `meme`, `cat`, `dog`, `beautiful`, `qrcode`, `fortunecookie`",
+  "informative": "`osu`, `help`, `ping`, `status`, `avatar`, `emoji`",
+  "moneyprofile": "`profile`, `topbalance`, `toplevel`, `setnote`, `reputation`, `daily`, `slot`, `loot`",
+  "music": "`play`, `pause`, `resume`, `queue`, `skip`, `stop`, `volume`",
+  "config": "`prefix`",
+  "utility": "`google`, `weather`, `translate`, `webcheck`",
+  "minecraft": "`mcbetainfo`, `mcbug`, `mcnet`"
+}
